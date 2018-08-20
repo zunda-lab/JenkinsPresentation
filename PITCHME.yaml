@@ -6,16 +6,16 @@ logo : assets/images/zunda_lab_logo_transparent_382x63.png
 
 theme-override : assets/css/custom.css
 
-transition : none
+#transition : none
 
-highlight : ir-black
+#highlight : ir-black
 
 code-line-numbers : true
 
 charts : true
 
-mathjax : TeX-AMS_HTML-full
+#mathjax : TeX-AMS_HTML-full
 
-published : true
+#published : true
 
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+#footnote : "GitPitch - The Fastest Way From Idea To Presentation"
