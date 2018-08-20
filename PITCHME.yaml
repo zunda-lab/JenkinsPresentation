@@ -1,4 +1,21 @@
-#theme : moon
-highlight : monokai-sublime
-slide-number: true
-transition : fade
+theme : night
+
+layout : center-right
+
+logo : assets/images/zunda_lab_logo_transparent_382x63.png
+
+theme-override : assets/css/custom.css
+
+transition : none
+
+highlight : ir-black
+
+code-line-numbers : true
+
+charts : true
+
+mathjax : TeX-AMS_HTML-full
+
+published : true
+
+footnote : "GitPitch - The Fastest Way From Idea To Presentation"
