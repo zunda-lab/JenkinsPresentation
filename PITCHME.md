@@ -246,10 +246,15 @@
 #### 救世主はCIとJenkins
 
 +++
-
 どのようにして短期開発やQCDが達成するか
 
-# CIとJenkins |
+救世主は
 
-正確に言うと「Jenkinsを使ってCIを実行する」
+### CIとJenkins
+
++++
+
+正確に言うと
+
+「Jenkinsを使ってCIを実行する」
 
