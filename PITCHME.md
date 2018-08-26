@@ -352,7 +352,7 @@ by 川口耕介さん（Jenkinsの生みの親）
   <tr class="fragment">
     <td style="vertical-align: top;">1</td>
     <td style="vertical-align: top;">ビルドを自動化</td>
-    <td style="vertical-align: top;"><ul>まとめてビルドする恐怖</li><li>リファクタリングに対する恐怖</ul></td>
+    <td style="vertical-align: top;"><ul><li>まとめてビルドする恐怖</li><li>リファクタリングに対する恐怖</li></ul></td>
   </tr>
   <tr class="fragment">
     <td style="vertical-align: top;">2</td>
@@ -362,17 +362,17 @@ by 川口耕介さん（Jenkinsの生みの親）
   <tr class="fragment">
     <td style="vertical-align: top;">3</td>
     <td style="vertical-align: top;">カバレッジ測定を自動化</td>
-    <td style="vertical-align: top;">テスト観点の漏れ、検証の遅延、リファクタリングに対する恐怖<br>バグに怯える、報告書作成</td>
+    <td style="vertical-align: top;"><ul><li>テスト観点の漏れ</li><li>検証の遅延</li><li>リファクタリングに対する恐怖</li><li>バグに怯える</li><li>報告書作成</li></ul></td>
   </tr>
   <tr class="fragment">
     <td style="vertical-align: top;">4</td>
     <td style="vertical-align: top;">インスペクションを自動化</td>
-    <td style="vertical-align: top;">インスペクションの漏れ、リファクタリングに対する恐怖、バグに怯える<br>報告書作成</td>
+    <td style="vertical-align: top;"><ul><li>インスペクションの漏れ</li><li>リファクタリングに対する恐怖</li><li>バグに怯える</li><li>報告書作成</li></ul></td>
   </tr>
   <tr class="fragment">
     <td style="vertical-align: top;">5</td>
     <td style="vertical-align: top;">コードステップ数のカウントを自動化</td>
-    <td style="vertical-align: top;">報告書作成</td>
+    <td style="vertical-align: top;"><ul><li>報告書作成</li></ul></td>
   </tr>
 </table>
 
