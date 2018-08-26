@@ -216,23 +216,27 @@
 ##### ～１５の阻害要因～
 
 +++
-- デグレの発生
-- テスト観点の漏れ
-- テスト環境の漏れ
-- インスペクションの漏れ
-- 終盤のバグ対応
-- 手順の属人化
-- 人手による反復テスト
-- 結果の目視確認
+@ul[none]
+- 1. デグレの発生
+- 2. テスト観点の漏れ
+- 3. テスト環境の漏れ
+- 4. インスペクションの漏れ
+- 5. 終盤のバグ対応
+- 6. 手順の属人化
+- 7. 人手による反復テスト
+- 8. 結果の目視確認
+@ulend
 
 +++
-- 環境差異
-- 検証の遅延
-- まとめてビルドする恐怖
-- リファクタリングに対する恐怖
-- バグに怯える
-- 報告書作成
-- 創造的な作業に集中できない
+@ul[none]
+- 9. 環境差異
+- 10. 検証の遅延
+- 11. まとめてビルドする恐怖
+- 12. リファクタリングに対する恐怖
+- 13. バグに怯える
+- 14. 報告書作成
+- 15. 創造的な作業に集中できない
+@ulend
 
 ---
 #### セクション２
@@ -352,27 +356,36 @@ by 川口耕介さん（Jenkinsの生みの親）
   <tr class="fragment">
     <td style="vertical-align: top;">1</td>
     <td style="vertical-align: top;">ビルドを自動化</td>
-    <td style="vertical-align: top;"><ul><li>まとめてビルドする恐怖</li><li>リファクタリングに対する恐怖</li></ul></td>
+    <td style="vertical-align: top;"><ul style="list-style: none;"><li>まとめてビルドする恐怖</li><li>リファクタリングに対する恐怖</li></ul></td>
   </tr>
   <tr class="fragment">
     <td style="vertical-align: top;">2</td>
     <td style="vertical-align: top;">テストを自動化</td>
-    <td style="vertical-align: top;"><ul><li>デグレの発生</li><li>テスト環境の漏れ</li><li>終盤のバグ対応</li><li>人手による反復テスト</li><li>結果の目視確認</li><li>環境差異</li><li>検証の遅延</li><li>リファクタリングに対する恐怖</li><li>バグに怯える</li><li>報告書作成</ul></td>
+    <td style="vertical-align: top;"><ul style="list-style: none;"><li>デグレの発生</li><li>テスト環境の漏れ</li><li>終盤のバグ対応</li><li>人手による反復テスト</li><li>結果の目視確認</li><li>環境差異</li><li>検証の遅延</li><li>リファクタリングに対する恐怖</li><li>バグに怯える</li><li>報告書作成</ul></td>
+  </tr>
+</table>
+
++++
+<table style="font-size: 0.5em;">
+  <tr>
+    <th>No</th>
+    <th>自動化</th>
+    <th>解消される阻害要因</th>
   </tr>
   <tr class="fragment">
     <td style="vertical-align: top;">3</td>
     <td style="vertical-align: top;">カバレッジ測定を自動化</td>
-    <td style="vertical-align: top;"><ul><li>テスト観点の漏れ</li><li>検証の遅延</li><li>リファクタリングに対する恐怖</li><li>バグに怯える</li><li>報告書作成</li></ul></td>
+    <td style="vertical-align: top;"><ul style="list-style: none;"><li>テスト観点の漏れ</li><li>検証の遅延</li><li>リファクタリングに対する恐怖</li><li>バグに怯える</li><li>報告書作成</li></ul></td>
   </tr>
   <tr class="fragment">
     <td style="vertical-align: top;">4</td>
     <td style="vertical-align: top;">インスペクションを自動化</td>
-    <td style="vertical-align: top;"><ul><li>インスペクションの漏れ</li><li>リファクタリングに対する恐怖</li><li>バグに怯える</li><li>報告書作成</li></ul></td>
+    <td style="vertical-align: top;"><ul style="list-style: none;"><li>インスペクションの漏れ</li><li>リファクタリングに対する恐怖</li><li>バグに怯える</li><li>報告書作成</li></ul></td>
   </tr>
   <tr class="fragment">
     <td style="vertical-align: top;">5</td>
     <td style="vertical-align: top;">コードステップ数のカウントを自動化</td>
-    <td style="vertical-align: top;"><ul><li>報告書作成</li></ul></td>
+    <td style="vertical-align: top;"><ul style="list-style: none;"><li>報告書作成</li></ul></td>
   </tr>
 </table>
 
