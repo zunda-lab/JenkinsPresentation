@@ -350,29 +350,29 @@ by 川口耕介さん（Jenkinsの生みの親）
     <th>解消される阻害要因</th>
   </tr>
   <tr class="fragment">
-    <td>1</td>
-    <td>ビルドを自動化</td>
-    <td><ul>まとめてビルドする恐怖</li><li>リファクタリングに対する恐怖</ul></td>
+    <td style="vertical-align: top;">1</td>
+    <td style="vertical-align: top;">ビルドを自動化</td>
+    <td style="vertical-align: top;"><ul>まとめてビルドする恐怖</li><li>リファクタリングに対する恐怖</ul></td>
   </tr>
   <tr class="fragment">
-    <td>2</td>
-    <td>テストを自動化</td>
-    <td><ul><li>デグレの発生</li><li>テスト環境の漏れ</li><li>終盤のバグ対応</li><li>人手による反復テスト</li><li>結果の目視確認</li><li>環境差異</li><li>検証の遅延</li><li>リファクタリングに対する恐怖</li><li>バグに怯える</li><li>報告書作成</ul></td>
+    <td style="vertical-align: top;">2</td>
+    <td style="vertical-align: top;">テストを自動化</td>
+    <td style="vertical-align: top;"><ul><li>デグレの発生</li><li>テスト環境の漏れ</li><li>終盤のバグ対応</li><li>人手による反復テスト</li><li>結果の目視確認</li><li>環境差異</li><li>検証の遅延</li><li>リファクタリングに対する恐怖</li><li>バグに怯える</li><li>報告書作成</ul></td>
   </tr>
   <tr class="fragment">
-    <td>3</td>
-    <td>カバレッジ測定を自動化</td>
-    <td>テスト観点の漏れ、検証の遅延、リファクタリングに対する恐怖<br>バグに怯える、報告書作成</td>
+    <td style="vertical-align: top;">3</td>
+    <td style="vertical-align: top;">カバレッジ測定を自動化</td>
+    <td style="vertical-align: top;">テスト観点の漏れ、検証の遅延、リファクタリングに対する恐怖<br>バグに怯える、報告書作成</td>
   </tr>
   <tr class="fragment">
-    <td>4</td>
-    <td>インスペクションを自動化</td>
-    <td>インスペクションの漏れ、リファクタリングに対する恐怖、バグに怯える<br>報告書作成</td>
+    <td style="vertical-align: top;">4</td>
+    <td style="vertical-align: top;">インスペクションを自動化</td>
+    <td style="vertical-align: top;">インスペクションの漏れ、リファクタリングに対する恐怖、バグに怯える<br>報告書作成</td>
   </tr>
   <tr class="fragment">
-    <td>5</td>
-    <td>コードステップ数のカウントを自動化</td>
-    <td>報告書作成</td>
+    <td style="vertical-align: top;">5</td>
+    <td style="vertical-align: top;">コードステップ数のカウントを自動化</td>
+    <td style="vertical-align: top;">報告書作成</td>
   </tr>
 </table>
 
