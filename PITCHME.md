@@ -330,26 +330,49 @@ Jenkinsは
 by 川口耕介さん（Jenkinsの生みの親）
 
 +++
+#### § 2-4
+#### Jenkinsを使って何をすれば
+#### 短期開発やQCDが達成できるのか？
+
++++
+おススメは
+
+## Jenkinsを使って
+## 5つの作業の自動化を行う
+
++++
+
+
 <table>
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>25</td>
+    <th>No</th>
+    <th>自動化</th>
+    <th>解消される阻害要因</th>
   </tr>
   <tr class="fragment">
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>1</td>
+    <td>ビルドを自動化</td>
+    <td>まとめてビルドする恐怖<br>リファクタリングに対する恐怖</td>
   </tr>
   <tr class="fragment">
-    <td>John</td>
-    <td>Doe</td>
-    <td>43</td>
+    <td>2</td>
+    <td>テストを自動化</td>
+    <td></td>
+  </tr>
+  <tr class="fragment">
+    <td>3</td>
+    <td>カバレッジ測定を自動化</td>
+    <td></td>
+  </tr>
+  <tr class="fragment">
+    <td>4</td>
+    <td>インスペクションを自動化</td>
+    <td></td>
+  </tr>
+  <tr class="fragment">
+    <td>5</td>
+    <td>コードステップ数のカウントを自動化</td>
+    <td></td>
   </tr>
 </table>
 
