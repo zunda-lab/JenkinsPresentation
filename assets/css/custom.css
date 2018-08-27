@@ -3,6 +3,6 @@
   /* text-align: center; */
 }
 
-.reveal.list-style-type-none ul {
+.list-style-type-none ul {
   list-style-type: none !important;
 }
