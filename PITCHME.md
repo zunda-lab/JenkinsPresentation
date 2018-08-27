@@ -356,12 +356,12 @@ by 川口耕介さん（Jenkinsの生みの親）
   <tr class="fragment">
     <td style="vertical-align: top;">1</td>
     <td style="vertical-align: top;">ビルドを自動化</td>
-    <td style="vertical-align: top;"><ul style="list-style: none;"><li>まとめてビルドする恐怖</li><li>リファクタリングに対する恐怖</li></ul></td>
+    <td style="vertical-align: top;"><ul style="list-style: none;"><li>11. まとめてビルドする恐怖</li><li>12. リファクタリングに対する恐怖</li></ul></td>
   </tr>
   <tr class="fragment">
     <td style="vertical-align: top;">2</td>
     <td style="vertical-align: top;">テストを自動化</td>
-    <td style="vertical-align: top;"><ul style="list-style: none;"><li>デグレの発生</li><li>テスト環境の漏れ</li><li>終盤のバグ対応</li><li>人手による反復テスト</li><li>結果の目視確認</li><li>環境差異</li><li>検証の遅延</li><li>リファクタリングに対する恐怖</li><li>バグに怯える</li><li>報告書作成</ul></td>
+    <td style="vertical-align: top;"><ul style="list-style: none;"><li>1. デグレの発生</li><li>3. テスト環境の漏れ</li><li>5. 終盤のバグ対応</li><li>7. 人手による反復テスト</li><li>8. 結果の目視確認</li><li>9. 環境差異</li><li>10. 検証の遅延</li><li>12. リファクタリングに対する恐怖</li><li>13. バグに怯える</li><li>15. 報告書作成</ul></td>
   </tr>
 </table>
 
@@ -375,17 +375,17 @@ by 川口耕介さん（Jenkinsの生みの親）
   <tr class="fragment">
     <td style="vertical-align: top;">3</td>
     <td style="vertical-align: top;">カバレッジ測定を自動化</td>
-    <td style="vertical-align: top;"><ul style="list-style: none;"><li>テスト観点の漏れ</li><li>検証の遅延</li><li>リファクタリングに対する恐怖</li><li>バグに怯える</li><li>報告書作成</li></ul></td>
+    <td style="vertical-align: top;"><ul style="list-style: none;"><li>2. テスト観点の漏れ</li><li>10. 検証の遅延</li><li>12. リファクタリングに対する恐怖</li><li>13. バグに怯える</li><li>14. 報告書作成</li></ul></td>
   </tr>
   <tr class="fragment">
     <td style="vertical-align: top;">4</td>
     <td style="vertical-align: top;">インスペクションを自動化</td>
-    <td style="vertical-align: top;"><ul style="list-style: none;"><li>インスペクションの漏れ</li><li>リファクタリングに対する恐怖</li><li>バグに怯える</li><li>報告書作成</li></ul></td>
+    <td style="vertical-align: top;"><ul style="list-style: none;"><li>4. インスペクションの漏れ</li><li>12. リファクタリングに対する恐怖</li><li>13. バグに怯える</li><li>14. 報告書作成</li></ul></td>
   </tr>
   <tr class="fragment">
     <td style="vertical-align: top;">5</td>
     <td style="vertical-align: top;">コードステップ数のカウントを自動化</td>
-    <td style="vertical-align: top;"><ul style="list-style: none;"><li>報告書作成</li></ul></td>
+    <td style="vertical-align: top;"><ul style="list-style: none;"><li>14. 報告書作成</li></ul></td>
   </tr>
 </table>
 
