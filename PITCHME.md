@@ -398,12 +398,13 @@ by 川口耕介さん（Jenkinsの生みの親）
 #### ビルドを自動化する効果
 +++
 
-@ul[list-style-type-none]
 
 - Jenkinsのジョブの設定により
 - プログラムコードをリポジトリに登録したタイミングで |
 - 全てのプログラムを自動ビルドすることができます |
 
+
+@ul[list-style-type-none]
 @ulend
 
 +++
