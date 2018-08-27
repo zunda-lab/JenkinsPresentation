@@ -347,7 +347,7 @@ by 川口耕介さん（Jenkinsの生みの親）
 +++
 
 
-<table style="font-size: 0.5em;">
+<table style="font-size: 0.7em;">
   <tr>
     <th>No</th>
     <th>自動化</th>
@@ -366,7 +366,7 @@ by 川口耕介さん（Jenkinsの生みの親）
 </table>
 
 +++
-<table style="font-size: 0.5em;">
+<table style="font-size: 0.7em;">
   <tr>
     <th>No</th>
     <th>自動化</th>
