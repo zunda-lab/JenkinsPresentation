@@ -1,4 +1,4 @@
----?image=https://jenkins.io/images/logos/jenkins/256.png&position=bottom 10% left 50%&size=auto 30%
+---?image=https://jenkins.io/images/logos/jenkins/256.png&position=bottom 15% left 50%&size=auto 30%
 
 # Jenkins入門
 @snap[south byline]
@@ -10,7 +10,7 @@
 1. [講師について](#/1)
 1. [Jenkinsとは](#/2)
 
----?image=assets/images/KojiONO.JPG&size=auto 45%&position=96% 5%
+---?image=assets/images/KojiONO.JPG&size=auto 45%&position=95% 5%
 ## 講師について
 
 - 小野宏司（おのこうじ）
