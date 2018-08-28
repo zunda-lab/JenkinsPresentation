@@ -8,7 +8,7 @@
 1. [講師について](#/1)
 1. [Jenkinsとは](#/2)
 
----?image=assets/images/KojiONO.JPG&size=auto 50%
+---?image=assets/images/KojiONO.JPG&size=auto 50%&opacity=20
 ## 講師について
 
 - 小野宏司（おのこうじ）
