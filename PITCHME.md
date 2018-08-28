@@ -2,7 +2,7 @@
 
 # Jenkins入門
 @snap[south byline]
-@size[0.5em](画像出典 https://jenkins.io)
+@size[0.25em](画像出典 https://jenkins.io)
 @snapend
 +++
 ## メニュー
