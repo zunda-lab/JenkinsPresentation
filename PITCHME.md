@@ -133,7 +133,7 @@
 - Gitツール |
 - GitHubアカウント |
 
-+++?image=assets/images/KojiONO.JPG&size=auto 45%&position=80% 80%
++++?image=assets/images/KojiONO.JPG&size=auto 45%&position=85% 80%
 
 #### コースでお会いできることを
 #### 楽しみにしています。
