@@ -133,7 +133,8 @@
 - Gitツール |
 - GitHubアカウント |
 
-+++
++++?image=assets/images/KojiONO.JPG&size=auto 45%&position=98% 5%
+
 #### コースでお会いできることを
 #### 楽しみにしています。
 #### 講師：小野 宏司
