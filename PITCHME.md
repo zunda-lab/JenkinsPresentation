@@ -1,4 +1,4 @@
----?image=https://jenkins.io/images/logos/jenkins/256.png&position=bottom 15% left 50%&size=auto 30%
+---?image=https://jenkins.io/images/logos/jenkins/256.png&position=top 10% left 50%&size=auto 20%
 
 # Jenkins入門
 
