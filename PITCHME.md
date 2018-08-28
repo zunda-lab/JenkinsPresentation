@@ -1,8 +1,7 @@
 ---?image=https://jenkins.io/images/logos/jenkins/256.png&position=bottom 10% left 50%&size=auto 30%
 
 # Jenkins入門
-![Logo](https://jenkins.io/images/logos/jenkins/256.png)
-@size[0.5em](Source https://jenkins.io)
+@snap[south byline] @size[0.5em](Source https://jenkins.io) @snapend
 +++
 ## メニュー
 
