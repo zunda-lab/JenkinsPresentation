@@ -1,7 +1,9 @@
 ---?image=https://jenkins.io/images/logos/jenkins/256.png&position=bottom 10% left 50%&size=auto 30%
 
 # Jenkins入門
-@snap[south byline] Source https://jenkins.io @snapend
+@snap[south byline]
+Source https://jenkins.io
+@snapend
 +++
 ## メニュー
 
