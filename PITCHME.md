@@ -1,4 +1,4 @@
----?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
+---?image=https://jenkins.io/images/logos/jenkins/256.png
 
 # Jenkins入門
 
