@@ -13,7 +13,7 @@
 
 ---
 
-@snap[west]
+@snap[north-west]
 講師について
 @ol
 - 小野宏司（おのこうじ）
