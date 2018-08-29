@@ -11,7 +11,7 @@
 1. [講師について](#/1)
 1. [Jenkinsとは](#/2)
 
----?image=assets/images/KojiONO.JPG&size=auto 45%&position=95% 5%
+---
 ## 講師について
 
 - 小野宏司（おのこうじ）
@@ -19,6 +19,9 @@
 - Web開発のフルスタックエンジニア
 - 多くのプログラミング言語に精通
 
+@snap[east sidebar]
+![Koji ONO](assets/images/KojiONO.JPG)
+@snapend
 ---
 ## このコースについて
 
