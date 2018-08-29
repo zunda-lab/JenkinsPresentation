@@ -2,6 +2,7 @@
 
 @snap[north]
 # Jenkins入門
+@snapend
 
 
 @snap[south byline]
