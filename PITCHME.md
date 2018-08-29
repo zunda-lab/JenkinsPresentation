@@ -320,7 +320,7 @@ CIに必要なもの
 #### Jenkins
 #### とは？
 
-+++
++++?image=https://jenkins.io/images/logos/jenkins/256.png&position=bottom 15% left 50%&size=auto 30%
 Jenkinsとは
 
 * 人間が介在せずとも実行できるようなスクリプトを繰り返して実行
