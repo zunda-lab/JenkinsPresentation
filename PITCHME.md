@@ -490,13 +490,11 @@ by 川口耕介さん（Jenkinsの生みの親）
 - ⇒ 阻害要因「バグに怯える」が解消
 @ulend
 
-+++?image=assets/images/coverage_report.png&position=bottom 15% left 50%&size=auto 30%
-@snap[north]
++++?image=assets/images/coverage_report.png&position=bottom 10% left 50%&size=auto 50%
 @ul[list-style-type-none]
 - ■ カバレッジ測定の結果レポートが自動作成
 - ⇒ 阻害要因「報告書作成」が解消
 @ulend
-@snapend
 
 +++
 #### § 2-8
