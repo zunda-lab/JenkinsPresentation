@@ -11,21 +11,14 @@
 1. [講師について](#/1)
 1. [Jenkinsとは](#/2)
 
----
+---?image=assets/images/KojiONO.JPG&size=auto 45%&position=95% 5%
+## 講師について
 
-@snap[north-west]
-講師について
-@ol
 - 小野宏司（おのこうじ）
 - 通信キャリアで３０年以上システム開発に従事
 - Web開発のフルスタックエンジニア
 - 多くのプログラミング言語に精通
-@olend
-@snapend
 
-@snap[east]
-![Koji ONO](assets/images/KojiONO.JPG)
-@snapend
 ---
 ## このコースについて
 
