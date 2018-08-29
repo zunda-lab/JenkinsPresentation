@@ -463,6 +463,10 @@ by 川口耕介さん（Jenkinsの生みの親）
 - ⇒ 阻害要因「結果の目視確認」が不要となる
 - ■ リファクタリングでのデグレチェック
 - ⇒ 阻害要因「リファクタリングに対する恐怖」が解消
+@ulend
+
++++?image=assets/images/test_report.png&position=bottom 5% left 50%&size=auto 40%
+@ul[list-style-type-none]
 - ■ テストレポートを自動生成
 - ⇒ 阻害要因「報告書作成」解消
 @ulend
@@ -519,6 +523,10 @@ by 川口耕介さん（Jenkinsの生みの親）
 - ⇒ 疎外要因「リファクタリングに対する恐怖」の解消
 - ■ バグになりそうな箇所や並列処理の問題点を指摘
 - ⇒ 阻害要因「バグに怯える」が解消
+@ulend
+
++++?image=assets/images/checkstyle_report.png&position=bottom 5% left 50%&size=auto 40%
+@ul[list-style-type-none]
 - ■ インスペクションの結果レポートが自動作成
 - ⇒ 阻害要因「報告書作成」が解消
 @ulend
@@ -540,10 +548,14 @@ by 川口耕介さん（Jenkinsの生みの親）
 - ⇒ コードステップ数のカウント実行
 @ulend
 
-+++
++++?image=assets/images/stepcounter_report.png&position=bottom 5% left 50%&size=auto 40%
 @ul[list-style-type-none]
 - ■ ジョブの実行の都度、ステップ数レポート自動作成
 - ⇒ 阻害要因「報告書作成」が解消
+@ulend
+
++++
+@ul[list-style-type-none]
 - ■ 急激なステップ数上昇が見れらたら
 - ⇒ まとめてコミットしている疑い
 - ■ テスト工程でステップ数の上昇
