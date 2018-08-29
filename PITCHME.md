@@ -14,10 +14,14 @@
 ---
 ## 講師について
 
+@snap[east sidebar]
+@ul
 - 小野宏司（おのこうじ）
 - 通信キャリアで３０年以上システム開発に従事
 - Web開発のフルスタックエンジニア
 - 多くのプログラミング言語に精通
+@ulend
+@snapend
 
 @snap[east sidebar]
 ![Koji ONO](assets/images/KojiONO.JPG)
