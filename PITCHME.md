@@ -326,6 +326,9 @@ Jenkinsとは
 * 人間が介在せずとも実行できるようなスクリプトを繰り返して実行
 * 結果を収集して表示してくれるツール |
 
+@snap[south byline]
+@size[0.25em](画像出典 https://jenkins.io)
+@snapend
 +++
 ##### WikiPedia
 
@@ -333,13 +336,15 @@ Jenkinsとは
 * ソフトウェアのビルド、検証、サーバへのインストール等の一連作業を自動化する事が出来る。 |
 * 作業の開始は手動でも命令可能だが、イベントをトリガとして、例えばバージョン管理システムにおけるコミット、cronのような時刻に基づいたスケジューリング、他のビルドの完了、特定のビルドURLによるリクエストといった様々な方法で起動することができる。 |
 
-+++
-
++++?image=https://jenkins.io/images/logos/jenkins/256.png&position=bottom 15% left 50%&size=auto 30%
 Jenkinsは
 
 * 安全かつ確実に実行してくれる
 * 自動化による繰り返し、省力化を実現してくれる |
 
+@snap[south byline]
+@size[0.25em](画像出典 https://jenkins.io)
+@snapend
 +++
 
 ## Jenkinsは
