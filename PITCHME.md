@@ -1,7 +1,7 @@
 ---?image=https://jenkins.io/images/logos/jenkins/256.png&position=bottom 15% left 50%&size=auto 30%
 
 @snap[north]
-<h2>Jenkins入門</h2>
+@size[2em](Jenkins入門)
 @snapend
 
 
