@@ -13,7 +13,7 @@
 
 ---
 
-@snap[west sidebar]
+@snap[west]
 講師について
 @ol
 - 小野宏司（おのこうじ）
@@ -23,7 +23,7 @@
 @olend
 @snapend
 
-@snap[east sidebar]
+@snap[east]
 ![Koji ONO](assets/images/KojiONO.JPG)
 @snapend
 ---
