@@ -550,7 +550,7 @@ by 川口耕介さん（Jenkinsの生みの親）
 
 +++?image=assets/images/stepcounter_report.png&position=bottom 5% left 50%&size=auto 40%
 @ul[list-style-type-none]
-- ■ ジョブの実行の都度、ステップ数レポート自動作成
+- ■ ジョブ実行の都度、ステップ数レポート自動作成
 - ⇒ 阻害要因「報告書作成」が解消
 @ulend
 
