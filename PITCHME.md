@@ -12,13 +12,15 @@
 1. [Jenkinsとは](#/2)
 
 ---
-## 講師について
 
-@snap[east sidebar]
+@snap[west sidebar]
+講師について
+@ol
 - 小野宏司（おのこうじ）
 - 通信キャリアで３０年以上システム開発に従事
 - Web開発のフルスタックエンジニア
 - 多くのプログラミング言語に精通
+@olend
 @snapend
 
 @snap[east sidebar]
