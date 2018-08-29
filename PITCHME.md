@@ -494,6 +494,7 @@ by 川口耕介さん（Jenkinsの生みの親）
 @ul[list-style-type-none]
 - ■ カバレッジ測定の結果レポートが自動作成
 - ⇒ 阻害要因「報告書作成」が解消
+- ![Coverage Report](assets/images/coverage_report.png)
 @ulend
 
 +++
