@@ -19,4 +19,19 @@
 
 # Mavenのインストール
 
+## Windowsの場合
+
+1. http://maven.apache.org/ にアクセスし、最新のMavenをダウンロードして解凍します。
+1. 環境変数PATHに、解凍したフォルダのbinフォルダを追加します。
+1. mvn --versionコマンドで正常インストールを確認します。
+
+参考：https://qiita.com/chosan211/items/1472198165442e93047e
+
+## Macの場合
+
+1. brew install maven
+1. mvn --versionコマンドで正常インストールを確認します。
+
+参考：https://qiita.com/chosan211/items/1472198165442e93047e
+
 # Gitのインストール
