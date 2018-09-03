@@ -142,7 +142,7 @@
 #### 楽しみにしています。
 #### 講師：小野 宏司
 
-+++?image=assets/images/KojiONO.JPG&size=auto 45%&position=100% 80%
++++?image=assets/images/KojiONO.JPG&size=auto 45%&position=90% 80%
 
 ## ありがとう
 ## ございました
