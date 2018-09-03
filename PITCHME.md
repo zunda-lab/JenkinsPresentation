@@ -144,8 +144,8 @@
 
 +++?image=assets/images/KojiONO.JPG&size=auto 45%&position=85% 80%
 
-# ありがとう
-# ございました
+#### ありがとう
+#### ございました
 #### 講師：小野 宏司
 
 ---
