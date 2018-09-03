@@ -35,3 +35,16 @@
 参考：https://qiita.com/chosan211/items/1472198165442e93047e
 
 # Gitのインストール
+
+## Windowsの場合
+
+1. https://gitforwindows.org/ にアクセスし、Git for Windows インストーラをダウンロードします。
+1. インストーラを起動し、指示に従ってインストールします。
+1. Git Bash を起動し git --version で正常インストールを確認します。
+
+参考：https://gabekore.org/git-for-windows-install
+
+## Macの場合
+
+1. brew install git
+2. git --version で正常インストールを確認します。
